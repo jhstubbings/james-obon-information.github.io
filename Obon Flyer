@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Obon Festival Flyer</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #fff8f0;
+    color: #333;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #f2c94c;
+    border-radius: 12px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 2.4em;
+    color: #c0392b;
+  }
+
+  .english-text {
+    font-size: 1em;
+    line-height: 1.6em;
+  }
+
+  .japanese-text {
+    font-size: 1em;
+    line-height: 1.8em;
+    margin-top: 20px;
+  }
+
+  ul li {
+  margin-bottom: 6px;
+}
+
+  .highlight {
+    background: #fff3cd;
+    padding: 0 5px;
+    border-radius: 4px;
+  }
+
+  .button-link {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 20px;
+    background-color: #f39c12;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    transition: background-color 0.3s ease;
+  }
+
+  .button-link:hover {
+    background-color: #d35400;
+  }
+
+  .section {
+    margin-bottom: 25px;
+  }
+
+  .note {
+    font-size: 0.9em;
+    color: #7f8c8d;
+    margin-top: 10px;
+  }
+</style>
+</head>
+<body>
+
+<h1>Obon Festival 2025 🎐</h1>
+
+<div class="section english-text">
+  <p>Hey friends! The <strong>Obon Festival</strong> is coming up on <span class="highlight">Sunday, August 17th</span> at <strong>Como Park Conservatory</strong>! 🎉</p>
+
+  <ul style="list-style:none; padding:0; margin:0;">
+  <li>🏯 1225 Estabrook Dr, St Paul, MN 55103</li>
+  <li>⏰ Time: 3pm – 9pm</li>
+  <li>🏮 Lantern Ceremony: around 8pm</li>
+  <li>💲 Cost: $8 (Online tickets only)</li>
+  <li>🍜 Bring cash for food & shops!</li>
+  </ul>
+
+  <p>I’ll be performing <strong>Kenjutsu (Swordsmanship)</strong> on the hill near the live stage, towards the back of the festival — location <strong>M7</strong> on the map.  
+  My demo times are: <strong>4:30, 5:30, and 6:30 PM</strong>.</p>
+
+  <p><strong>🚗 Parking note:</strong> Parking is almost impossible unless you come very early, and street parking close by is basically non-existent. Your best bet is to:  <br>
+  • Street park a bit further away  <br>
+  • Take an Uber/Lyft  <br>
+  • Use the Conservatory’s shuttle service</p>
+
+  <a class="button-link" href="https://comozooconservatory.org/como/obon-festival-2025/" target="_blank">🎟 Buy Tickets & Info</a>
+</div>
+
+<div class="section japanese-text">
+  <p>皆さん、こんにちは！<br>
+  <strong>盆踊り祭り</strong>が<span class="highlight">8月17日（日）</span>に<strong>コモパーク・コンサヴァトリー</strong>で開催されます！</p>
+
+  <ul style="list-style:none; padding:0; margin:0;">
+  <li>🏯 1225 Estabrook Dr, St Paul, MN 55103</li>
+  <li>⏰ 開催時間：午後3時〜午後9時</li>
+  <li>🏮 灯籠流し：午後8時頃</li>
+  <li>💲 入場料：1人8ドル（オンラインチケットのみ）</li>
+  <li>🍜 お店や屋台で買い物をする場合は現金をお持ちください！</li>
+  </ul>
+
+  <p>私は会場後方のライブステージ近くの丘（地図では<strong>M7</strong>地点）で<strong>剣術</strong>の演武を行います。<br>
+  演武時間は<strong>午後4時30分、5時30分、6時30分</strong>です。</p>
+
+  <p><strong>🚗 駐車場について：</strong>かなり早く来ないと駐車はほぼ不可能で、近隣の路上駐車もほぼできません。おすすめは以下の方法です：<br>
+  ・少し離れた場所に路上駐車する<br>
+  ・UberやLyftを利用する<br>
+  ・コンサヴァトリーのシャトルサービスを利用する</p>
+
+  <a class="button-link" href="https://comozooconservatory.org/como/obon-festival-2025/" target="_blank">🎟 チケット購入・詳細はこちら</a>
+</div>
+
+<div class="note">Feel free to share this with anyone who might want to join! / 興味のある方にぜひお知らせください！</div>
+
+</body>
+</html>
